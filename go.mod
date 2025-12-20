@@ -1,14 +1,14 @@
 module github.com/open-uem/openuem-ocsp-responder
 
-go 1.25.3
+go 1.25.5
 
 require (
 	entgo.io/ent v0.14.5
 	github.com/go-co-op/gocron/v2 v2.17.0
 	github.com/jackc/pgx/v5 v5.7.6
 	github.com/labstack/echo/v4 v4.13.4
-	github.com/open-uem/ent v0.0.0-20251017131532-38c6f9d2010c
-	github.com/open-uem/utils v0.0.0-20251014101747-824dc3574744
+	github.com/open-uem/ent v0.0.0-20251220072124-b7c9bbc5c91f
+	github.com/open-uem/utils v0.0.0-20251220104704-89477718ebb2
 	github.com/urfave/cli/v2 v2.27.7
 	golang.org/x/crypto v0.43.0
 	golang.org/x/sys v0.37.0
