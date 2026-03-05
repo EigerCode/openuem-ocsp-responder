@@ -55,12 +55,10 @@ github.com/mattn/go-sqlite3 v1.14.28 h1:ThEiQrnbtumT+QMknw63Befp/ce/nUPgBPMlRFEu
 github.com/mattn/go-sqlite3 v1.14.28/go.mod h1:Uh1q+B4BYcTPb+yiD3kU8Ct7aC0hY9fxUwlHK0RXw+Y=
 github.com/mitchellh/go-wordwrap v1.0.1 h1:TLuKupo69TCn6TQSyGxwI1EblZZEsQ0vMlAFQflz0v0=
 github.com/mitchellh/go-wordwrap v1.0.1/go.mod h1:R62XHJLzvMFRBbcrT7m7WgmE1eOyTSsCt+hzestvNj0=
-github.com/open-uem/ent v0.0.0-20251220072124-b7c9bbc5c91f h1:HaI7IyyZiRaIPLbqTvWmgrZW5oogasf8SZgmr5f0HkY=
-github.com/open-uem/ent v0.0.0-20251220072124-b7c9bbc5c91f/go.mod h1:BQhpO5eRtnSX+VBtgl/6MFRxPuiUz02xyCvff3eRk7M=
-github.com/open-uem/utils v0.0.0-20251220104704-89477718ebb2 h1:y1Cxw0RDgBXrX+xefBZrXGjMKYrduSOqlLxoTonJiT8=
-github.com/open-uem/utils v0.0.0-20251220104704-89477718ebb2/go.mod h1:ecBMjP3ok7LPOGxETGc3Md4tyb4dPqmPhXlz4MTeUjQ=
-github.com/open-uem/utils v0.0.0-20251221104611-c55d64529212 h1:d7iSAxoUy9LmFuLO52laMZN7OvR8sRTy/nXbqDPUtsU=
-github.com/open-uem/utils v0.0.0-20251221104611-c55d64529212/go.mod h1:ecBMjP3ok7LPOGxETGc3Md4tyb4dPqmPhXlz4MTeUjQ=
+github.com/open-uem/ent v0.0.0-20260304131017-5ae1c9142798 h1:uyKy8VA19mxrJhbL/vRZMCgZYGR0P3LnF7StOG673c8=
+github.com/open-uem/ent v0.0.0-20260304131017-5ae1c9142798/go.mod h1:ecLm+0cRfs5lTsUs/VyX8xzeJMgwxlKYjYI76VGhpRo=
+github.com/open-uem/utils v0.0.0-20260305135023-24f298daa053 h1:V7fOuQm/n0YHUBUcjjIn+wGH40X3L1NOyYwx2LNGbnw=
+github.com/open-uem/utils v0.0.0-20260305135023-24f298daa053/go.mod h1:6ry5JkXtSYcQHFvAIR1a/+08jIvMlUkoX2lVbtNtPiI=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/robfig/cron/v3 v3.0.1 h1:WdRxkvbJztn8LMz/QEvLN5sBU+xKpSqwwUO1Pjr4qDs=
